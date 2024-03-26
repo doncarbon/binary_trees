@@ -9,3 +9,7 @@
 + Binary trees are commonly used in computer science to implement binary search algorithms, as well as in the representation of expression trees, Huffman coding trees, and other types of data structures. They can also be used to represent hierarchical data, such as file systems and organizational charts.
 
 + Some common operations that can be performed on binary trees include inserting nodes, deleting nodes, searching for a node with a given key, traversing the tree to visit its nodes in a particular order, and balancing the tree to ensure that it remains reasonably well-balanced and efficient.
+
+### Authors
+
+- Hamza Yassine "ihamzayassine@gmail.com"
